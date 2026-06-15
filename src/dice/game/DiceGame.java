@@ -1,5 +1,4 @@
-//Amir Lorvand
-//M00872834
+// Author: Amir Lorvand
 
 package dice.game;
 
