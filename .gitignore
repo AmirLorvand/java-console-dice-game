@@ -1,0 +1,33 @@
+# macOS system files
+
+.DS_Store
+__MACOSX/
+
+# Java compiled files
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Build folders
+
+out/
+build/
+target/
+dist/
+
+# IDE/editor files
+
+.idea/
+.vscode/
+*.iml
+
+# NetBeans private/project-generated files
+
+nbproject/private/
+
+# Logs and temporary files
+
+*.log
+*.tmp
